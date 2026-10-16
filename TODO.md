@@ -35,4 +35,5 @@
 - [x] Add the complete page route manifest for public discovery, property details, account dashboard, listing submission, and admin moderation.
 - [x] Configure server-backed container publishing with `/api/health` and a runtime listener honoring `PORT`.
 - [x] Run TypeScript diagnostics, tests, database migration, production build, and endpoint smoke checks.
-- [x] Commit and push the finished marketplace implementation to the canonical GitHub repository and deploy the live server-backed project.
+- [x] Commit and push the finished marketplace implementation to the canonical GitHub repository.
+- [ ] Publish the GitHub-canonical project from the Project Dashboard; the project publish API intentionally does not publish GitHub-hosted canonicals.
