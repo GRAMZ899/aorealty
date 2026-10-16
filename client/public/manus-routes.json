@@ -1,1 +1,1 @@
-{"routes":[{"path":"/","title":"A&O Real Estate Solutions"}]}
+{"routes":[{"path":"/","title":"A&O Real Estate Solutions"},{"path":"/properties","title":"Explore Properties"},{"path":"/properties/:id","title":"Property Details"},{"path":"/dashboard","title":"My A&O Space"},{"path":"/list-property","title":"List a Property"},{"path":"/admin","title":"Marketplace Admin"},{"path":"/login","title":"Sign In"},{"path":"/404","title":"Page Not Found"}]}
